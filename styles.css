@@ -1,0 +1,58 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Style the header and navigation */
+  header {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  /* Style the main sections */
+  section {
+    padding: 50px;
+  }
+  
+  #home {
+    background-color: #f2f2f2;
+  }
+  
+  #about {
+    background-color: #e6e6e6;
+  }
+  
+  #projects {
+    background-color: #f2f2f2;
+  }
+  
+  #contact {
+    background-color: #e6e6e6;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  
